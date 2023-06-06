@@ -1,1 +1,1 @@
-This is our session notebook where notes are being taken during each session. 
+This is my notebook where notes are being taken during each session. 
